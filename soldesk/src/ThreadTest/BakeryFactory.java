@@ -11,7 +11,7 @@ public class BakeryFactory extends Thread {
 	
 	public void run(){
 		for(int i=0; i<20; i++){
-			shareData.putBaker("»§_"+i);
+			shareData.putBaker("ï¿½ï¿½_"+i);
 		}
 	}
 }
